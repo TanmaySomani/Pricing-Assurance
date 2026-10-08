@@ -1,0 +1,8 @@
+{
+  "name": "Fictional motor renewal pricing",
+  "currency": "AUD",
+  "versions": [
+    {"version":"MOTOR-2025","effective_from":"2025-01-01","effective_to":"2025-12-31","base_rates":{"Metro":"900","Regional":"750","Rural":"650"},"fee":"25.00","tax_rate":"0.10","source":"Synthetic pricing contract v1, section 3"},
+    {"version":"MOTOR-2026","effective_from":"2026-01-01","effective_to":"2026-12-31","base_rates":{"Metro":"1000","Regional":"800","Rural":"700"},"fee":"25.00","tax_rate":"0.10","source":"Synthetic pricing contract v1, section 3"}
+  ]
+}

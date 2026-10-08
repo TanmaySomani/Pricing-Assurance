@@ -1,0 +1,15 @@
+FICTIONAL EXAMPLE — NOT A REAL INSURANCE CONTRACT
+
+Renewal notice, 15 June 2026
+Policy: EXAMPLE-001
+Renewal date: 2026-06-15
+Rating segment: Metro
+Risk factor: 1.00
+Renewal discount rate: 10%
+Recorded annual premium: AUD 1127.50
+Applied rating version: MOTOR-2026
+
+Applicable pricing evidence: examples/rules.json, version MOTOR-2026.
+This illustrative record contains the fields needed by the simplified pricing contract.
+The expected premium is AUD 1017.50. The recorded premium differs by AUD 110.00.
+A missing discount is a counterfactual hypothesis requiring investigation, not a confirmed cause.

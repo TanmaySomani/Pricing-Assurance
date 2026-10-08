@@ -1,0 +1,23 @@
+{
+  "dataset": "Synthetic motor renewals, seed 42; not real-world validation",
+  "unique_policies": 20000,
+  "input_rows": 20200,
+  "seconds": 0.215,
+  "pricing_true_positives": 2455,
+  "pricing_false_positives": 0,
+  "pricing_false_negatives": 0,
+  "blocked_expected": 592,
+  "blocked_detected": 592,
+  "blocked_missed": 0,
+  "summary": {
+    "rows": 20200,
+    "calculable": 19408,
+    "blocked": 792,
+    "affected": 2455,
+    "discrepancy_rate": 0.1264942291838417,
+    "overcharges": "97407.41",
+    "undercharges": "154323.29",
+    "gross_exposure": "251730.70",
+    "net_difference": "-56915.88"
+  }
+}

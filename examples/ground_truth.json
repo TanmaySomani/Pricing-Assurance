@@ -1,0 +1,402 @@
+[
+  {
+    "policy_id": "DEMO-000000",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000001",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000002",
+    "defect": "expired_rating"
+  },
+  {
+    "policy_id": "DEMO-000003",
+    "defect": "expired_rating"
+  },
+  {
+    "policy_id": "DEMO-000004",
+    "defect": "discount_omitted"
+  },
+  {
+    "policy_id": "DEMO-000005",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000006",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000007",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000008",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000009",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000010",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000011",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000012",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000013",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000014",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000015",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000016",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000017",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000018",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000019",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000020",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000021",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000022",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000023",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000024",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000025",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000026",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000027",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000028",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000029",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000030",
+    "defect": "expired_rating"
+  },
+  {
+    "policy_id": "DEMO-000031",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000032",
+    "defect": "discount_twice"
+  },
+  {
+    "policy_id": "DEMO-000033",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000034",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000035",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000036",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000037",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000038",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000039",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000040",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000041",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000042",
+    "defect": "discount_omitted"
+  },
+  {
+    "policy_id": "DEMO-000043",
+    "defect": "discount_twice"
+  },
+  {
+    "policy_id": "DEMO-000044",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000045",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000046",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000047",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000048",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000049",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000050",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000051",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000052",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000053",
+    "defect": "discount_omitted"
+  },
+  {
+    "policy_id": "DEMO-000054",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000055",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000056",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000057",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000058",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000059",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000060",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000061",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000062",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000063",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000064",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000065",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000066",
+    "defect": "expired_rating"
+  },
+  {
+    "policy_id": "DEMO-000067",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000068",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000069",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000070",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000071",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000072",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000073",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000074",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000075",
+    "defect": "discount_twice"
+  },
+  {
+    "policy_id": "DEMO-000076",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000077",
+    "defect": "discount_twice"
+  },
+  {
+    "policy_id": "DEMO-000078",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000079",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000080",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000081",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000082",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000083",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000084",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000085",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000086",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000087",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000088",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000089",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000090",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000091",
+    "defect": "expired_rating"
+  },
+  {
+    "policy_id": "DEMO-000092",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000093",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000094",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000095",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000096",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000097",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000098",
+    "defect": "duplicate"
+  },
+  {
+    "policy_id": "DEMO-000099",
+    "defect": "duplicate"
+  }
+]
